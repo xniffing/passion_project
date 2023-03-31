@@ -11,5 +11,5 @@ class DropDownCountry extends _LIT.LitElement {
     ;`
     }
 }
-customElements.define('drop-down-country', DropDownCountry);
+// customElements.define('drop-down-country', DropDownCountry);
 
