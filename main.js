@@ -7,7 +7,7 @@ class DropDownCountry extends _LIT.LitElement {
     }
     render() {
         return _LIT.html`
-      <div>${this.msg}</div>
+      <div>${this.msg}test 123</div>
     ;`
     }
 }
