@@ -1,5 +1,5 @@
 import * as _LIT from 'https://cdn.jsdelivr.net/gh/lit/dist@2/core/lit-core.min.js';
-class DropDownCountry extends _LIT.LitElement {
+export class DropDownCountry extends _LIT.LitElement {
     static get properties() {
         return {
             msg: String
